@@ -1,0 +1,14 @@
+Collecting qiskit
+  Downloading qiskit-2.1.0-cp39-abi3-win_amd64.whl.metadata (13 kB)
+Requirement already satisfied: rustworkx>=0.15.0 in d:\quantumcomputingexample\qvenv\lib\site-packages (from qiskit) (0.16.0)
+Requirement already satisfied: numpy<3,>=1.17 in d:\quantumcomputingexample\qvenv\lib\site-packages (from qiskit) (2.3.1)
+Requirement already satisfied: scipy>=1.5 in d:\quantumcomputingexample\qvenv\lib\site-packages (from qiskit) (1.16.0)
+Requirement already satisfied: dill>=0.3 in d:\quantumcomputingexample\qvenv\lib\site-packages (from qiskit) (0.4.0)
+Requirement already satisfied: stevedore>=3.0.0 in d:\quantumcomputingexample\qvenv\lib\site-packages (from qiskit) (5.4.1)
+Requirement already satisfied: typing-extensions in d:\quantumcomputingexample\qvenv\lib\site-packages (from qiskit) (4.14.0)
+Requirement already satisfied: pbr>=2.0.0 in d:\quantumcomputingexample\qvenv\lib\site-packages (from stevedore>=3.0.0->qiskit) (6.1.1)
+Requirement already satisfied: setuptools in d:\quantumcomputingexample\qvenv\lib\site-packages (from pbr>=2.0.0->stevedore>=3.0.0->qiskit) (80.9.0)
+Downloading qiskit-2.1.0-cp39-abi3-win_amd64.whl (7.2 MB)
+   ---------------------------------------- 7.2/7.2 MB 401.6 kB/s eta 0:00:00
+Installing collected packages: qiskit
+Successfully installed qiskit-2.1.0
